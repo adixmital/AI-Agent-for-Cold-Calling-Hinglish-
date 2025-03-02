@@ -105,7 +105,6 @@ Watch the full demo
 | Text-to-Speech (TTS) in Hinglish Accent        | ✅ Completed       |
 | Cold Call Scenarios (Demo, Interview, Payment) | ✅ Completed       |
 | Hinglish Dataset Fine-tuning                   | ⚠️ Partially Done |
-| LOOM Video Demonstration                       | ✅ Completed       |
 | Advanced Voice Emotion Handling                | ❌ Not Implemented |
 
 ---
