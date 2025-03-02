@@ -1,0 +1,15 @@
+{
+    "demo_scheduling": [
+      {"user": "Hello", "agent": "Namaste! Aap ERP ka demo lena chahenge?"},
+      {"user": "Haan, kaise karna hoga?", "agent": "Main aapke liye ek meeting schedule kar sakta hoon!"}
+    ],
+    "candidate_interviewing": [
+      {"user": "Hello", "agent": "Aap thoda apne experience ke baare mein bata sakte hain?"},
+      {"user": "Maine 2 saal kaam kiya hai", "agent": "Bahut badhiya! Aapki skills kya hain?"}
+    ],
+    "payment_followup": [
+      {"user": "Hello", "agent": "Aapka last payment ab tak process nahi hua hai. Kya main aapki madad kar sakta hoon?"},
+      {"user": "Haan, mujhe thoda time chahiye", "agent": "Theek hai! Kab tak expect karein?"}
+    ]
+  }
+  
