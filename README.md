@@ -17,8 +17,9 @@ The agent listens to **voice inputs**, understands the intent, generates appropr
 ### ✅ 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/adixmital/AI-Agent-for-Cold-Calling-Hinglish-.git
+cd AI-Agent-for-Cold-Calling-Hinglish-
+
 ```
 
 ### ✅ 2. Install dependencies
